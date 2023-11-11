@@ -14,7 +14,7 @@ Opens up total of 100 windows by one window every second. Every windows has dife
 
 ### LineDraw
 
-Example drawing (an optical illusion: you can see the thing two ways (opening to diferent sides=
+Example drawing (an optical illusion: you can see the thing two ways (opening to diferent sides))
 
 ![Screenshot from 2023-11-10 20-40-30](https://github.com/pekka1234/XlibProjects/assets/62663286/cf45d1cb-b5a8-404d-9019-2a319e9a63e0)
 
