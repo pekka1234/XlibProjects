@@ -22,6 +22,8 @@ Program that you can draw staright lines from diferent angles with diferent colo
 
 ## Running script
 
+### Compiling
+
 The scripts are desinged to run on the x11 display server.
 
 First install the libraries:
@@ -36,12 +38,7 @@ When compiling with gcc, use these extra flags
 gcc -O2 -o executable SCRIPTNAME.c -L /usr/X11R6/lib -lX11
 ```
 
-### Compiling
-
-Compiling xlib c scripts require extra steps:
-
-
 ### Executables
 
-You compiling doesn't work you can try to run the executables from exe folder.
+If compiling doesn't work you can try to run the executables from exe folder.
 
