@@ -40,5 +40,5 @@ gcc -O2 -o executable SCRIPTNAME.c -L /usr/X11R6/lib -lX11
 
 ### Executables
 
-If compiling doesn't work you can try to run the executables from exe folder.
+If compiling doesn't work you can try to run the executables from Precompiled executables folder.
 
