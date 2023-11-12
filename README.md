@@ -20,6 +20,12 @@ Example drawing (an optical illusion: you can see the thing two ways (opening to
 
 Program that you can draw staright lines from diferent angles with diferent colors and thiccneses.
 
+### TypeWriter
+
+Program that you can type text. (Still in progress: font size change and saving features coming).
+
+![Screenshot from 2023-11-12 12-53-16](https://github.com/pekka1234/XlibProjects/assets/62663286/a707c212-9a85-40b9-852a-935da2460150)
+
 ## Running script
 
 ### Compiling
