@@ -26,6 +26,12 @@ Program that you can type text. (Still in progress: font size change and saving 
 
 ![Screenshot from 2023-11-12 12-53-16](https://github.com/pekka1234/XlibProjects/assets/62663286/a707c212-9a85-40b9-852a-935da2460150)
 
+### GrayScale
+
+Colorshow that dispalys grayscale and rgb color scales.
+
+![Screenshot from 2023-11-12 16-08-22](https://github.com/pekka1234/XlibProjects/assets/62663286/5acb3b8f-ee1a-47cd-80c9-f4fec4252111)
+
 ## Running script
 
 ### Compiling
